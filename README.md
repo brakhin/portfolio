@@ -1,10 +1,6 @@
-[![Build Status](https://travis-ci.org/brakhin/job4j.svg?branch=master)](https://travis-ci.org/brakhin/job4j)
-[![codecov](https://codecov.io/gh/brakhin/job4j/branch/master/graph/badge.svg)](https://codecov.io/gh/brakhin/job4j)
+﻿Ниже приведены наиболее интересные проекты, которые я реализовал во время обучения на курсе Job4j
 
-# Репозиторий Бориса Брахина по практическим занятиям курса Job4j  
-Ниже приведены наиболее интересные проекты, которые я реализовал во время обучения на курсе Job4j
-
-<b>1. Парсер вакансий на sql.ru (Multithreading, Quartz, Jsoup, JDBC, PostgreSQL)</b>
+<b>1. Парсер вакансий на sql.ru (Quartz, Jsoup, JDBC, PostgreSQL, Многопоточность)</b>
 <br>Постановка задачи:
 <br>1. Реализовать модуль сборки анализа данных с sql.ru.
 <br>2. Система должна использовать Jsoup для парсинга страниц.
@@ -17,18 +13,18 @@
    
 <br><a href="https://github.com/brakhin/job4j/blob/master/2_sql/src/main/java/ru/bgbrakhi/sql/jobparser/SqlRuParser.java">Основной модуль</a>
 <br><a href="https://github.com/brakhin/job4j/tree/master/2_sql/src/main/java/ru/bgbrakhi/sql/jobparser">Ссылка</a> 
-<br><br>Скриншот
+<br><br><b>Скриншот</b>
 <br><img src="2_sql/Screenshot.jpg">
 
 <b>2. Сервис покупки билетов в кинотеатр (PostgreSQL, JDBC, JavaServlet, ApacheTomcat, JavaScript, Ajax, BootStrap)</b>
 <br>Постановка задачи:
 <br>Разработать простой веб сайт по покупки билетов в кинотеатр.
 <br><a href="https://github.com/brakhin/job4j/tree/master/3_servlets_cinema">Ссылка</a> 
-<br><br>Выбор места
+<br><br><b>Выбор места</b>
 <br><img src="3_servlets_cinema/Screenshot1.jpg">
-<br><br>Покупка билета
+<br><br><b>Покупка билета</b>
 <br><img src="3_servlets_cinema/Screenshot2.jpg">
-<br>Отображение выбранного места как купленного
+<br><b>Отображение выбранного места как купленного</b>
 <br><img src="3_servlets_cinema/Screenshot3.jpg">
 
 <b>3. Приложение "список дел" (PostgreSQL, Hibernate, JavaServlet, ApacheTomcat, JavaScript, Ajax, BootStrap)</b>
@@ -38,9 +34,9 @@ Cоздать простое приложение todolist.
 2. все данные на форму загружаються через ajax.
 3. данные должны сохраняться через hibernate.
 <br><a href="https://github.com/brakhin/job4j/tree/master/3_hibernate">Ссылка</a> 
-<br><br>Общий вид :
+<br><br><b>Общий вид :</b>
 <br><img src="3_hibernate/Screenshot_1.jpg">
-<br><br>Фильтрация активных записей :
+<br><br><b>Фильтрация активных записей :</b>
 <br><img src="3_hibernate/Screenshot_2.jpg">
  
 <b>4. Приложение "площадка продажи машин" (PostgreSQL, Hibernate, JavaServlet, ApacheTomcat, JavaScript, Ajax, BootStrap)</b>
@@ -53,12 +49,12 @@ Cоздать приложение удовлетворющее свойства
 5. Только пользователь, создавший объявление, мжет активировать (деактивировать) его.
 6. Используется Hibernate Mapping.
 <br><a href="https://github.com/brakhin/job4j/tree/master/3_hibernate_carseller">Ссылка</a> 
-<br><br>Общий вид :
+<br><br><b>Общий вид :</b>
 <br><img src="3_hibernate_carseller/Screenshot1.jpg">
-<br><br>Поиск :
+<br><br><b>Поиск :</b>
 <br><img src="3_hibernate_carseller/Screenshot2.jpg">
-<br><br>Авторизация(регистрация) пользователя :
+<br><br><b>Авторизация(регистрация) пользователя :</b>
 <br><img src="3_hibernate_carseller/Screenshot3.jpg">
-<br><br>Личный кабинет пользователя :
+<br><br><b>Личный кабинет пользователя :</b>
 <br><img src="3_hibernate_carseller/Screenshot4.jpg">
  
