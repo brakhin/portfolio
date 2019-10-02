@@ -1,4 +1,4 @@
-﻿Ниже приведены наиболее интересные проекты, которые я реализовал во время обучения на курсе job4j
+﻿# Репозиторий наиболее интересных проекты, реализованные во время обучения на курсе job4j
 
 <h2>1. Парсер вакансий на sql.ru (Quartz, Jsoup, JDBC, PostgreSQL, Многопоточность)</h2>
 <br>Постановка задачи:
@@ -16,7 +16,7 @@
 <br><br><b>Скриншот</b>
 <br><img src="2_sql/Screenshot.jpg">
 
-<b>2. Сервис покупки билетов в кинотеатр (PostgreSQL, JDBC, JavaServlet, ApacheTomcat, JavaScript, Ajax, BootStrap)</b>
+<h2>2. Сервис покупки билетов в кинотеатр (PostgreSQL, JDBC, JavaServlet, ApacheTomcat, JavaScript, Ajax, BootStrap)</h2>
 <br>Постановка задачи:
 <br>Разработать простой веб сайт по покупки билетов в кинотеатр.
 <br><a href="https://github.com/brakhin/portfolio/tree/master/3_servlets_cinema">Ссылка</a> 
@@ -27,7 +27,7 @@
 <br><b>Отображение выбранного места как купленного</b>
 <br><img src="3_servlets_cinema/Screenshot3.jpg">
 
-<b>3. Приложение "список дел" (PostgreSQL, Hibernate, JavaServlet, ApacheTomcat, JavaScript, Ajax, BootStrap)</b>
+<h2>3. Приложение "список дел" (PostgreSQL, Hibernate, JavaServlet, ApacheTomcat, JavaScript, Ajax, BootStrap)</h2>
 <br>Постановка задачи:
 Cоздать простое приложение todolist.
 1. веб-приложение должно иметь одну страницу index.html. 
@@ -39,7 +39,7 @@ Cоздать простое приложение todolist.
 <br><br><b>Фильтрация активных записей</b>
 <br><img src="3_hibernate/Screenshot_2.jpg">
  
-<b>4. Приложение "площадка продажи машин" (PostgreSQL, Hibernate, JavaServlet, ApacheTomcat, JavaScript, Ajax, BootStrap)</b>
+<h2>4. Приложение "площадка продажи машин" (PostgreSQL, Hibernate, JavaServlet, ApacheTomcat, JavaScript, Ajax, BootStrap)</h2>
 <br>Постановка задачи:
 Cоздать приложение удовлетворющее свойствам :
 1. Основная страница содержит все объявления о продаже машин. 
@@ -58,7 +58,7 @@ Cоздать приложение удовлетворющее свойства
 <br><br><b>Личный кабинет пользователя</b>
 <br><img src="3_hibernate_carseller/Screenshot4.jpg">
  
-<b>5. Приложение "площадка продажи машин" (<b>SPRING</b>) (Spring MVC, Spring Data, Spring Security, Spring Boot, Hibernate, PostgreSQL, Ajax, BootStrap, Thymeleaf)</b>
+<h2>5. Приложение "площадка продажи машин" (SPRING) (Spring MVC, Spring Data, Spring Security, Spring Boot, Hibernate, PostgreSQL, Ajax, BootStrap, Thymeleaf)</h2>
 <br>Постановка задачи:
 Cоздать приложение удовлетворющее свойствам :
 1. Основная страница содержит все объявления о продаже машин. 
@@ -70,13 +70,13 @@ Cоздать приложение удовлетворющее свойства
 7. Добавлена форма регистрации пользователей с валидацией ввода на стороне сервера.
 8. Реализована локализация текста ошибок валидации формы регистрации.
 <br><a href="https://github.com/brakhin/portfolio/tree/master/3_hibernate_carseller">Ссылка</a> 
-<br><br><b>Форма регистрации пользователя</b>
-<br><img src="3_hibernate_carseller/Screenshot1.jpg">
-<br><br><b>Общий вид</b>
+<br><br><b>Регистрация пользователя</b>
 <br><img src="3_spring_boot/Screenshot1.jpg">
-<br><br><b>Поиск</b>
-<br><img src="3_spring_boot/Screenshot2.jpg">
-<br><br><b>Авторизация(регистрация) пользователя</b>
-<br><img src="3_spring_boot/Screenshot3.jpg">
 <br><br><b>Личный кабинет пользователя</b>
+<br><img src="3_spring_boot/Screenshot2.jpg">
+<br><br><b>Авторизация пользователя</b>
+<br><img src="3_spring_boot/Screenshot3.jpg">
+<br><br><b>Общий вид</b>
 <br><img src="3_spring_boot/Screenshot4.jpg">
+<br><br><b>Поиск</b>
+<br><img src="3_spring_boot/Screenshot5.jpg">
