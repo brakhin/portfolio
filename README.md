@@ -69,7 +69,7 @@ Cоздать приложение удовлетворющее свойства
 <br>6. Используется Spring.
 <br>7. Добавлена форма регистрации пользователей с валидацией ввода на стороне сервера.
 <br>8. Реализована локализация текста ошибок валидации формы регистрации.
-<br><a href="https://github.com/brakhin/portfolio/tree/master/3_hibernate_carseller">Ссылка</a> 
+<br><a href="https://github.com/brakhin/portfolio/tree/master/3_spring_boot">Ссылка</a> 
 <h3>Регистрация пользователя</h3>
 <img src="3_spring_boot/Screenshot1.jpg">
 <h3>Личный кабинет пользователя</h3>
