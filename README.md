@@ -71,7 +71,7 @@ Cоздать приложение удовлетворющее свойства
 8. Реализована локализация текста ошибок валидации формы регистрации.
 <br><a href="https://github.com/brakhin/portfolio/tree/master/3_hibernate_carseller">Ссылка</a> 
 <br><br><b>Форма регистрации пользователя</b>
-<br><img src="3_spring_boot/Screenshot1.jpg">
+<br><img src="3_hibernate_carseller/Screenshot1.jpg">
 <br><br><b>Общий вид</b>
 <br><img src="3_spring_boot/Screenshot1.jpg">
 <br><br><b>Поиск</b>
