@@ -13,7 +13,7 @@ import ru.bgbrakhi.carseller.repository.IUserRepository;
 import java.util.Collection;
 import java.util.HashSet;
 
-@Service()
+@Service
 @Repository
 public class UserServiceImpl implements IUserService {
 

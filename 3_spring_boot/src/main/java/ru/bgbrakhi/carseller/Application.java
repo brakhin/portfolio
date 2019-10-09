@@ -11,14 +11,9 @@ import org.springframework.context.support.ReloadableResourceBundleMessageSource
 import org.springframework.validation.beanvalidation.LocalValidatorFactoryBean;
 import ru.bgbrakhi.carseller.service.StorageServiceImpl;
 
+
 @SpringBootApplication
-public class Application extends SpringBootServletInitializer {
-
-    @Override
-    protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        return application.sources(Application.class);
-    }
-
+public class Application {
     @Bean
     CommandLineRunner init(StorageServiceImpl storageService) {
         return (args) -> {
