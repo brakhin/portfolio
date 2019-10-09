@@ -1,0 +1,1 @@
+java -jar target/mvdservice-2.0.jar

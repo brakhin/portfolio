@@ -1,0 +1,1 @@
+java -jar target/receiver-1.0.jar

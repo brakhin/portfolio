@@ -1,0 +1,1 @@
+java -jar target/workplace-2.0.jar
