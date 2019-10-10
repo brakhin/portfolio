@@ -15,7 +15,7 @@
 <h2>5. Приложение "площадка продажи машин" (SPRING) (Spring MVC, Spring Data, Spring Security, Spring Boot, Hibernate, PostgreSQL, Ajax, BootStrap, Thymeleaf)</h2>
 <br><a href="https://github.com/brakhin/portfolio/tree/master/carseller_spring">Ссылка</a> 
 
-<h2>6. Пример реaлизации RESTful приложения с использованием микросервисной архитектуры и SpringSecurity</h2>
+<h2>6. Пример реaлизации RESTful приложения с использованием микросервисной архитектуры (Spring Security, Spring Data, JWT)</h2>
 <br><a href="https://github.com/brakhin/portfolio/tree/master/rest_app">Ссылка</a> 
 
 

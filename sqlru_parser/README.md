@@ -1,0 +1,17 @@
+﻿# Парсер вакансий на sql.ru (Quartz, Jsoup, JDBC, PostgreSQL, Многопоточность)
+
+Постановка задачи:
+<br>1. Реализовать модуль сборки анализа данных с sql.ru.
+<br>2. Система должна использовать Jsoup для парсинга страниц.
+<br>3. Система должна запускаться раз в день.
+<br>4. Система должна собирать данные только про вакансии Java.
+<br>5. Данные должны храниться в базе данных. 
+<br>6. Учесть дубликаты. Вакансии с одинаковым именем считаются дубликатами.
+<br>7. Учитывать время последнего запуска. если это первый запуск. то нужно собрать все объявления с начало года.
+<br>8. В системе не должно быть ввода-вывода информации, все настройки берутся из файла app.properties.   
+   
+<br><a href="https://github.com/brakhin/portfolio/blob/master/sqlru_parser/src/main/java/ru/bgbrakhi/sql/jobparser/SqlRuParser.java">Основной модуль</a>
+<br><a href="https://github.com/brakhin/portfolio/tree/master/sqlru_parser/src/main/java/ru/bgbrakhi/sql/jobparser">Ссылка</a> 
+<h3>Скриншот</h3>
+<img src="sqlru_parser/Screenshot.jpg">
+
