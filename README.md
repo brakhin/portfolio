@@ -1,7 +1,7 @@
 ﻿# Репозиторий наиболее интересных проектов, реализованных во время обучения на курсе job4j
 
 <h3>1. Парсер вакансий на sql.ru (Quartz, Jsoup, JDBC, PostgreSQL, Многопоточность)</h3>
-<a href="https://github.com/brakhin/portfolio/tree/master/sqlru_parser/src/main/java/ru/bgbrakhi/sql/jobparser">Ссылка</a> 
+<a href="https://github.com/brakhin/portfolio/tree/master/sqlru_parser">Ссылка</a> 
 
 <h3>2. Сервис покупки билетов в кинотеатр (PostgreSQL, JDBC, JavaServlet, ApacheTomcat, JavaScript, Ajax, BootStrap)</h3>
 <a href="https://github.com/brakhin/portfolio/tree/master/servlets_cinema">Ссылка</a> 

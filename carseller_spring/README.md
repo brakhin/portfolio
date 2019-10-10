@@ -9,7 +9,7 @@ Cоздать приложение удовлетворющее свойства
 <br>6. Используется Spring.
 <br>7. Добавлена форма регистрации пользователей с валидацией ввода на стороне сервера.
 <br>8. Реализована локализация текста ошибок валидации формы регистрации.
-<br><a href="https://github.com/brakhin/portfolio/tree/master/carseller_spring">Ссылка</a> 
+<a href="https://github.com/brakhin/portfolio/tree/master/carseller_spring">Ссылка</a> 
 <h3>Регистрация пользователя</h3>
 <img src="carseller_spring/Screenshot1.jpg">
 <h3>Личный кабинет пользователя</h3>
