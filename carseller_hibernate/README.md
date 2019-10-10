@@ -8,7 +8,6 @@ Cоздать приложение удовлетворющее свойства
 <br>4. Если в форме добавления объявления значения нет в выпадающем списке, вводится новое значение.
 <br>5. Только пользователь, создавший объявление, мжет активировать (деактивировать) его.
 <br>6. Используется Hibernate Mapping.
-<a href="https://github.com/brakhin/portfolio/tree/master/carseller_hibernate">Ссылка</a> 
 <h3>Общий вид</h3>
 <img src="carseller_hibernate/Screenshot1.jpg">
 <h3>Поиск</h3>

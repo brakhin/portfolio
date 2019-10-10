@@ -5,7 +5,6 @@ Cоздать простое приложение todolist.
 <br>1. веб-приложение должно иметь одну страницу index.html. 
 <br>2. все данные на форму загружаються через ajax.
 <br>3. данные должны сохраняться через hibernate.
-<a href="https://github.com/brakhin/portfolio/tree/master/todolist_hibernate">Ссылка</a> 
 <h3>Общий вид</h3>
 <img src="todolist_hibernate/Screenshot_1.jpg">
 <h3>Фильтрация активных записей</h3>

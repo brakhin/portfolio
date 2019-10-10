@@ -15,7 +15,6 @@
 
 - <b>Workplace</b> - сервис реализации рабочего места на стороне Министерства для работы с заявками, сохраненными в БД. Использует авторизацию SpringSecurity на основе JWT (JSON Web Token)
 
-<br><a href="https://github.com/brakhin/portfolio/tree/master/rest_app">Ссылка</a> 
 
 
 

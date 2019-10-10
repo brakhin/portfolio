@@ -2,7 +2,6 @@
 
 Постановка задачи:
 <br>Разработать простой веб сайт по покупки билетов в кинотеатр.
-<a href="https://github.com/brakhin/portfolio/tree/master/servlets_cinema">Ссылка</a> 
 <h3>Выбор места</h3>
 <img src="servlets_cinema/Screenshot1.jpg">
 <h3>Покупка билета</h3>
