@@ -10,8 +10,7 @@
 <br>7. Учитывать время последнего запуска. если это первый запуск. то нужно собрать все объявления с начало года.
 <br>8. В системе не должно быть ввода-вывода информации, все настройки берутся из файла app.properties.   
    
-<br><a href="https://github.com/brakhin/portfolio/blob/master/sqlru_parser/src/main/java/ru/bgbrakhi/sql/jobparser/SqlRuParser.java">Основной модуль</a>
-<br><a href="https://github.com/brakhin/portfolio/tree/master/sqlru_parser/src/main/java/ru/bgbrakhi/sql/jobparser">Ссылка</a> 
+<br><a href="https://github.com/brakhin/portfolio/tree/master/sqlru_parser">Ссылка</a> 
 <h3>Скриншот</h3>
-<img src="sqlru_parser/Screenshot.jpg">
+<img src="Screenshot.jpg">
 
