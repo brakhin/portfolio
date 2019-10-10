@@ -9,11 +9,11 @@ Cоздать приложение удовлетворющее свойства
 <br>5. Только пользователь, создавший объявление, мжет активировать (деактивировать) его.
 <br>6. Используется Hibernate Mapping.
 <h3>Общий вид</h3>
-<img src="carseller_hibernate/Screenshot1.jpg">
+<img src="Screenshot1.jpg">
 <h3>Поиск</h3>
-<img src="carseller_hibernate/Screenshot2.jpg">
+<img src="Screenshot2.jpg">
 <h3>Авторизация(регистрация) пользователя</h3>
-<img src="carseller_hibernate/Screenshot3.jpg">
+<img src="Screenshot3.jpg">
 <h3>Личный кабинет пользователя</h3>
-<img src="carseller_hibernate/Screenshot4.jpg">
+<img src="Screenshot4.jpg">
  

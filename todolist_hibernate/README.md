@@ -6,7 +6,7 @@ Cоздать простое приложение todolist.
 <br>2. все данные на форму загружаються через ajax.
 <br>3. данные должны сохраняться через hibernate.
 <h3>Общий вид</h3>
-<img src="todolist_hibernate/Screenshot_1.jpg">
+<img src="Screenshot_1.jpg">
 <h3>Фильтрация активных записей</h3>
-<img src="todolist_hibernate/Screenshot_2.jpg">
+<img src="Screenshot_2.jpg">
 

@@ -10,12 +10,12 @@ Cоздать приложение удовлетворющее свойства
 <br>7. Добавлена форма регистрации пользователей с валидацией ввода на стороне сервера.
 <br>8. Реализована локализация текста ошибок валидации формы регистрации.
 <h3>Регистрация пользователя</h3>
-<img src="carseller_spring/Screenshot1.jpg">
+<img src="Screenshot1.jpg">
 <h3>Личный кабинет пользователя</h3>
-<img src="carseller_spring/Screenshot2.jpg">
+<img src="Screenshot2.jpg">
 <h3>Авторизация пользователя</h3>
-<img src="carseller_spring/Screenshot3.jpg">
+<img src="Screenshot3.jpg">
 <h3>Общий вид</h3>
-<img src="carseller_spring/Screenshot4.jpg">
+<img src="Screenshot4.jpg">
 <h3>Поиск</h3>
-<img src="carseller_spring/Screenshot5.jpg">
+<img src="Screenshot5.jpg">
